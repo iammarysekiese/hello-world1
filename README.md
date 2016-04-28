@@ -1,6 +1,9 @@
 # hello-world1
 ##How big am I
 ###And Now?
+
+Why is it that the headers are almost the same size?
+
 I'm learning how to use **GitHub**
 
 1. I like learning new things
@@ -10,3 +13,5 @@ I'm learning how to use **GitHub**
 
   * I can have bullets
   * :-)
+  * 
+  [I can make links] (http://computecanada.github.io/2016-04-28-ualberta/)
